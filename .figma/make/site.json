@@ -1,0 +1,10 @@
+{
+  "description": "Streamline school operations with a comprehensive ERP solution that manages attendance, timetables, and transfer certificates for teachers, administrators, and parents.",
+  "robots": {
+    "index": false
+  },
+  "accessibility": {
+    "addBypassLinks": false,
+    "ignoreReducedMotion": false
+  }
+}
